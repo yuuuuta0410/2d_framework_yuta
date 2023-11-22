@@ -33,6 +33,7 @@ public class AnnoyingLove {
 
             // ウィンドウを閉じる
             frame.dispose();
+
         }
     }
 }
